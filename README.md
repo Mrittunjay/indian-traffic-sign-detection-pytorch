@@ -1,2 +1,2 @@
 # indian-traffic-sign-detection-pytorch
-Indian road side traffic sign board detection using deep learning CNN in PyTorch
+Indian road side traffic signboard detection using deep learning(Convolutional Neural Networks) in PyTorch
